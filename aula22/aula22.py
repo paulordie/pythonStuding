@@ -4,8 +4,8 @@ for valor in variavel:
     #print(valor)
 
 
-    return
-    #continue
+    #return
+    continue
     #print(valor)
 
 

@@ -49,3 +49,7 @@ while c < len(string):
     c += 1
 
 print(f'valor final fora do while {c} e string montada é {stringMontada}')
+print(stringMontada)
+
+
+
